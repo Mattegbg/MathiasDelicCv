@@ -1,0 +1,36 @@
+.wholePage {
+    text-align: left;
+    margin: 5rem;
+    width: 80%;
+    
+    
+}
+
+.IMG {
+    align-content: right;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.endLine {
+    border-bottom: solid;
+    width: 100%;
+    color: blue;
+}
+
+.endLine1 {
+    border-bottom: dotted;
+    width: 100%;
+    color: black;
+}
+
+.headline {
+    font-weight: bold;
+    color: blue;
+}
+
+.work {
+    margin-top: 1rem;
+}
